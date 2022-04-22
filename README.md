@@ -2,5 +2,5 @@
 
 - 🌱 I’m currently learning Mern Stack
 - 👯 I’m looking to collaborate on Google
-- 📫 reach me: <link href="www.linkedin.com/in/ahmad-abedalqader" >LinkedIn</link>
+- 📫 reach me on: [LinkedIn](www.linkedin.com/in/ahmad-abedalqader)
 - 😄 Pronouns: He/His
